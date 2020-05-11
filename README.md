@@ -63,7 +63,7 @@ The subsequent paragraphs could address questions including:
 ## Team Roles
 
 * Tianran Qiu: Extracted painting features, constructed classification models, summarize Data and Reference part.
-* Zishun Jin：Extracted painting features, constructed classification models, contributed to parts of the abstract. 
+* Zishun Jin：Extracted painting features, constructed classification models, contributed to parts of the abstract and results. 
 * Yijun Liu: Scraping data, calculate RMS Contrast and average Entropy and Summarize Code Part
 * Weihua Zhao: Came up with the idea, exploratory data analysis, data cleaning, erotic charge calculation.
 * Da Gong: Visualization of data using Bokeh, matplot.
